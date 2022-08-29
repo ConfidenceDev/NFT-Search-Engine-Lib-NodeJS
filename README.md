@@ -3,7 +3,7 @@
 An NFT search engine on Ethereum, Polygon and Solana blockchains.
 Utilizing the NFT Port API. Obtain an API Key for free before use
 
-<a href="https://nftport.xyz" target="_blank">https://nftport.xyz</a>
+<a href="https://nftport.xyz" target="_blank">https://nftport.xyz</a> <br>
 <a href="https://www.npmjs.com/package/axios" target="_blank">https://www.npmjs.com/package/axios</a>
 
 # Installation
@@ -69,5 +69,5 @@ For inquires, support, bug reports and suggestions send me a mail@: confidostic3
 
 # Buy me a Coffee
 
-BTC Wallet: 3PNTiH3rZAaGvWbAU4u1CjPcogJGAziarE
+BTC Wallet: 3PNTiH3rZAaGvWbAU4u1CjPcogJGAziarE <br>
 Transfer: https://paydev.onrender.com
