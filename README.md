@@ -6,6 +6,8 @@ Utilizing the NFT Port API. Obtain an API Key for free before use
 <a href="https://nftport.xyz" target="_blank">https://nftport.xyz</a> <br>
 <a href="https://www.npmjs.com/package/axios" target="_blank">https://www.npmjs.com/package/axios</a>
 
+NPM: <a href="https://www.npmjs.com/package/nft-search" target="_blank">https://www.npmjs.com/package/nft-search</a>
+
 # Installation
 
 ```
